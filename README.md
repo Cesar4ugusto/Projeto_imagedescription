@@ -17,7 +17,7 @@ Sou estudante de Análise e Desenvolvimento de Sistemas focado no desenvolviment
 
 > Projeto Front-End :+1:
 
-> Aplicado Responsivo :x:
+> Aplicado Responsivo :+1:
 
 Demonstra a animação com a propriedade `hover` do css para aparecer o texto. Pode ser usado para acrescentar uma descrição em imagens.
 
